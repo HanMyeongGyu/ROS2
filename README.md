@@ -46,7 +46,6 @@ SerBot AGV 매뉴얼 내 LiDAR 구성 및 Navigation2 연동 실패
 </details>
 
 ![yert](https://github.com/user-attachments/assets/6bb0cebb-63d5-4b63-9523-ddce8ad1b6a5)
-![455230033-0a8a37db-a850-4f0e-a049-a189e0814a53](https://github.com/user-attachments/assets/3ae80124-2e98-4d17-9275-0a2ffa153adf)
 
 [Uploading review_gui.py…]()
 
