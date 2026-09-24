@@ -1,8 +1,6 @@
 
-[~ 논문형식_정규_논문지_과학기술대학_컴퓨터공학과_한명규_20191498.pdf](https://github.com/user-attachments/files/22331858/_._._._._._20191498.pdf)
-
-
 ROS 2를 활용한 안내 로봇
+
 1. 과제 목표
    
 사용자가 지정한 목적지까지 SerBot AGV가 자율적으로 안전하게 이동하여 안내하는 로봇 시스템 개발
@@ -26,6 +24,13 @@ SLAM 기반 맵 작성은 완료되었으나,
 SerBot AGV 매뉴얼 내 LiDAR 구성 및 Navigation2 연동 실패
 
 맵은 생성되었지만 실제 자율 이동 불가
+
+
+
+
+
+
+
 
 [회의록.2팀.12주차.250528.pdf](https://github.com/user-attachments/files/20743857/2.12.250528.pdf)
 
